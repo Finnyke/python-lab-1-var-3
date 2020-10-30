@@ -1,3 +1,6 @@
+# LAB 1, VARIANT 4
+# Maxim Pupykin, group 6312
+
 import re
 domain_list = []
 
