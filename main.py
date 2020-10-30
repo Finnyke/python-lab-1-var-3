@@ -1,4 +1,4 @@
-# LAB 1, VARIANT 2
+# LAB 1, VARIANT 3
 # Maxim Pupykin, group 6312
 
 import re
